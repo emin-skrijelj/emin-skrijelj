@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Emin</h1>
-<h3 align="center">A passionate software developer and pentester from Serbia 🇷🇸</h3>
+<h3 align="center">A passionate Software Developer and Pentester from Serbia 🇷🇸</h3>
 
 - 📫 How to reach me **eminskri342@gmail.com**
 
