@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Emin</h1>
+<h1 align="center">Hi</h1>
 <h3 align="center">A passionate Software Developer and Pentester from Serbia 🇷🇸</h3>
 
 
