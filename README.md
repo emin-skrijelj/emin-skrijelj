@@ -1,5 +1,5 @@
 <h1 align="center">Hi</h1>
-<h3 align="center">A passionate Software Developer and Pentester from Serbia 🇷🇸</h3>
+<h3 align="center">A passionate Cybersecurity enthusiast from Serbia 🇷🇸</h3>
 
 
 <h3 align="left">Connect with me:</h3>
